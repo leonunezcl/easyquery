@@ -15,7 +15,7 @@ Easy Query es un multi gestor de bases de datos. La idea detras de este proyecto
 Regala un pescado a un hombre y le darás alimento para un día, enseñale a pescar y lo alimentarás para el resto de su vida (Proverbio Chino)
 
 # Historia
-
+Trabajaba en la compañia de seguros Cruz del Sur en el departamento informatica migrando el modulo de reaseguros (que wea de negocio mas enredada) por alla por el año 2000 y la informacion estaba almacenada en un sistema AS/400 base de datos DB2. Por ese entonces la unica forma de consultar datos o ejecutar actualizaciones de las tablas era a traves de una interfaz de "fosforo de verde" de una terminal. 
 
 # Archivos Necesarios
 Este proyecto ocupa 4 componentes ActiveX 
