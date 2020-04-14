@@ -1,0 +1,6 @@
+Línea 14: la clase SysTray.XSystray del control cSystray1 no era una clase de control cargada.
+Línea 17: el nombre de la propiedad _ExtentX de cSystray1 no es válido.
+Línea 18: el nombre de la propiedad _ExtentY de cSystray1 no es válido.
+Línea 19: el nombre de la propiedad InTray de cSystray1 no es válido.
+Línea 20: el nombre de la propiedad TrayIcon de cSystray1 no es válido.
+Línea 21: el nombre de la propiedad TrayTip de cSystray1 no es válido.

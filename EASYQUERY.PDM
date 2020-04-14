@@ -1,0 +1,190 @@
+[Root]
+Most Recent Package=Paquete de instalación estándar 1
+
+[Package|Paquete de instalación estándar 1|ProyectoVB]
+Icon1=easyquery.exe
+Title1=Easy Query !
+StartIn1=$(AppPath)
+Key1=Icon1
+
+
+[Package|Paquete de instalación estándar 1|VBTools]
+Icon1=easyquery.exe
+Title1=Easy Query !
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Paquete de instalación estándar 1|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=c:\temp
+
+[Package|Paquete de instalación estándar 1|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Paquete de instalación estándar 1|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Paquete de instalación estándar 1|Files Found]
+pvb_ssubtmr6.dll=C:\WINDOWS\SYSTEM\pvb_ssubtmr6.dll
+
+[Package|Paquete de instalación estándar 1|Files Released]
+pvb_ssubtmr6.dll=
+
+[Package|Paquete de instalación estándar 1|Missing Dependency Information]
+C:\WINDOWS\SYSTEM\XSystray.ocx=
+C:\Archivos de programa\Archivos comunes\SYSTEM\ADO\msado21.tlb=
+\\Sigma23\aplc\APLSIGMA\NewSist\Componentes\XSystray.ocx=
+\\Sigma23\aplc\APLSIGMA\NewSist\Componentes\fpSpr30.ocx=
+C:\WINDOWS\SYSTEM\fpSpr30.ocx=
+C:\WINDOWS\SYSTEM\vbtoolsskin.dll=
+C:\Archivos de programa\Project Explorer\pvb_ssubtmr6.dll=
+C:\WINDOWS\SYSTEM\pvb_ssubtmr6.dll=
+C:\WINDOWS\SYSTEM32\pvb_ssubtmr6.dll=
+C:\WINDOWS\SYSTEM32\XSystray.ocx=
+C:\WINDOWS\SYSTEM32\MSCOMCTL.OCX=
+C:\WINDOWS\SYSTEM32\RICHTX32.OCX=
+
+[Package|Paquete de instalación estándar 1|Out-of-Date Dependency Information]
+C:\WINDOWS\SYSTEM\MSCOMCTL.OCX=
+
+[Package|Paquete de instalación estándar 1|Files Added]
+pvb_ssubtmr6.dll=
+c:\windows\equery.ini=
+C:\WINDOWS\SYSTEM\pvb_ssubtmr6.dll=
+
+[Package|Paquete de instalación estándar 1|Files Removed]
+c:\windows\system\msvbvm60.dll=
+c:\windows\system\oleaut32.dll=
+c:\windows\system\olepro32.dll=
+c:\windows\system\asycfilt.dll=
+c:\windows\system\stdole2.tlb=
+c:\archivos de programa\microsoft visual studio\vb98\wizards\pdwizard\redist\comcat.dll=
+c:\archivos de programa\project explorer\pvb_ssubtmr6.dll=
+c:\archivos de programa\microsoft visual studio\vb98\wizards\pdwizard\redist\mdac_typ.exe=
+c:\windows\system32\msvbvm60.dll=
+c:\windows\system32\oleaut32.dll=
+c:\windows\system32\olepro32.dll=
+c:\windows\system32\asycfilt.dll=
+c:\windows\system32\stdole2.tlb=
+c:\windows\system32\comcat.dll=
+c:\windows\system32\mfc42.dll=
+c:\windows\equery.ini=
+
+[Package|Paquete de instalación estándar 1|Files In Project]
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+C:\WINDOWS\equery.ini=No
+C:\WINDOWS\SYSTEM\MSVBVM60.DLL=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\SYSTEM\VB6ES.DLL=Yes
+C:\WINDOWS\SYSTEM\RICHTX32.OCX=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=Yes
+C:\WINDOWS\SYSTEM\RCHTXES.DLL=Yes
+C:\WINDOWS\SYSTEM\Mscomctl.ocx=Yes
+C:\WINDOWS\SYSTEM\MSCMCES.DLL=Yes
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=Yes
+C:\WINDOWS\SYSTEM\pvb_ssubtmr6.dll=Yes
+C:\LNUNEZ\Proyecto\Aplicaciones\EasyQuery!\easyquery.exe=Yes
+C:\WINDOWS\SYSTEM\fpSpr30.ocx=Yes
+
+[Package|Paquete de instalación estándar 1|Configure Registry Files]
+Applicable=No
+
+[Package|Paquete de instalación estándar 1|Configure Remote Servers]
+Applicable=No
+
+[Package|Paquete de instalación estándar 1|Install Locations]
+F:\ProyectoVb\Aplicaciones\SymphonyX\easyquery.exe=$(AppPath)
+C:\WINDOWS\SYSTEM\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\VB6ES.DLL=$(WinSysPath)
+C:\Archivos de programa\Archivos comunes\SYSTEM\ADO\msado21.tlb=$(WinSysPath)
+C:\WINDOWS\SYSTEM\COMCTL32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\CMCTLES.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\RICHTX32.OCX=$(WinSysPath)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\RCHTXES.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSCMCES.DLL=$(WinSysPath)
+C:\Archivos de programa\Spread30\BIN\fpSpr30.ocx=$(WinSysPath)
+C:\WINDOWS\SYSTEM\mfc42.dll=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\MSVCRT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\XSystray.ocx=$(WinSysPath)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\LNUNEZ\Proyecto\Aplicaciones\EASY_QUERY\EASYQUERY.EXE=$(AppPath)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+\\Sigma23\aplc\APLSIGMA\NewSist\Componentes\fpSpr30.ocx=$(WinSysPath)
+\\Sigma23\aplc\APLSIGMA\NewSist\Componentes\XSystray.ocx=$(WinSysPath)
+C:\LNUNEZ\Proyecto\Aplicaciones\Easy Query\easyquery.exe=$(AppPath)
+C:\WINDOWS\SYSTEM\vbtoolsskin.dll=$(AppPath)
+C:\WINDOWS\SYSTEM\fpSpr30.ocx=$(WinSysPath)
+C:\Archivos de programa\Project Explorer\pvb_ssubtmr6.dll=$(AppPath)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+C:\WINDOWS\equery.ini=$(WinPath)
+C:\WINDOWS\SYSTEM\pvb_ssubtmr6.dll=$(WinSysPath)
+F:\ProyectoVB\Aplicaciones\Easy Query\easyquery.exe=$(AppPath)
+C:\WINDOWS\SYSTEM32\VB6ES.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM32\RICHTX32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM32\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM32\mfc42.dll=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM32\msvcrt.dll=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM32\XSystray.ocx=$(WinSysPath)
+C:\WINDOWS\SYSTEM32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM32\pvb_ssubtmr6.dll=$(WinSysPath)
+C:\Compartido\Aplicaciones\VBSoftware\EasyQuery\easyquery.exe=$(AppPath)
+C:\LNUNEZ\Proyecto\Aplicaciones\EasyQuery!\easyquery.exe=$(AppPath)
+
+[Package|Paquete de instalación estándar 1|Configure Shared Files]
+Applicable=Yes
+F:\ProyectoVb\Aplicaciones\SymphonyX\easyquery.exe=No
+C:\LNUNEZ\Proyecto\Aplicaciones\EASY_QUERY\EASYQUERY.EXE=No
+C:\LNUNEZ\Proyecto\Aplicaciones\Easy Query\easyquery.exe=No
+C:\WINDOWS\SYSTEM\vbtoolsskin.dll=Yes
+C:\Archivos de programa\Project Explorer\pvb_ssubtmr6.dll=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=No
+F:\ProyectoVB\Aplicaciones\Easy Query\easyquery.exe=No
+C:\Compartido\Aplicaciones\VBSoftware\EasyQuery\easyquery.exe=No
+C:\LNUNEZ\Proyecto\Aplicaciones\EasyQuery!\easyquery.exe=No
+
+[Package|Paquete de instalación estándar 1|Distribution]
+Type=single
+Size=1.44 MB
+Title=Easy Query !
+
+[Package|Paquete de instalación estándar 1|IconGroups]
+Group0=VBSoftware
+PrivateGroup0=0
+Parent0=$(Programs)
+
+[Package|Paquete de instalación estándar 1|VBSoftware]
+Icon1=easyquery.exe
+Title1=Easy Query !
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Paquete de instalación estándar 1|Package]
+PackageFolder=c:\temp
+ProjectFolder=C:\LNUNEZ\Proyecto\Aplicaciones\EasyQuery!
+ServerSideCab=
+File1=c:\temp\setup.exe
+File2=c:\temp\Setup.Lst
+File3=c:\temp\easyquery.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz

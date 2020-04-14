@@ -1,0 +1,247 @@
+{\rtf1\ansi\deff0
+{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fnil\fcharset0 System;}{\f2\fnil\fcharset0 Verdana;}}
+{\colortbl\red0\green0\blue0;\red0\green0\blue255;\red0\green255\blue255;\red0\green255\blue0;\red255\green0\blue255;\red255\green0\blue0;\red255\green255\blue0;\red255\green255\blue255;\red0\green0\blue127;\red0\green127\blue127;\red0\green127\blue0;\red127\green0\blue127;\red127\green0\blue0;\red127\green127\blue0;\red127\green127\blue127;\red192\green192\blue192;}
+{\info{\creatim\yr2001\mo3\dy11\hr1\min1\sec15}{\revtim\yr2001\mo3\dy11\hr1\min23\sec12}{\version1}{\vern393248}}\paperw12196\paperh15840\margl360\margr0\margt360\margb360\deftab849
+
+#{\footnote Hlp_Query_x}
+${\footnote Query : 1}
+K{\footnote Query : 1}
++{\footnote SymphonyX0005}
+\pard{\b\f2\fs20\cf0 Query : 1}{
+\par}\pard{\b\f0\fs20\cf0    imgConexiones}{\b\f0\fs20\cf0\tab}{\f0\fs20\cf0 Conexiones activas}{
+\par}\pard{\b\f0\fs20\cf0    staQuery}{\b\f0\fs20\cf0\tab}{\f0\fs20\cf0 Listo}{
+\par}\pard{\b\f0\fs20\cf0    Detalle Campos}{\b\f0\fs20\cf0\tab}{\f0\fs20\cf0 Resultado de la B\'fasqueda}{
+\par}\pard{
+\par}
+\page
+#{\footnote Hlp_SymphonyX_}
+${\footnote SymphonyX}
+K{\footnote SymphonyX}
++{\footnote SymphonyX0005}
+\pard{\b\f2\fs20\cf0 SymphonyX}{
+\par}\pard{\b\f0\fs20\cf0    Toolbar}{\b\f0\fs20\cf0\tab}{\f0\fs20\cf0 Sale de SymphonyX!}{
+\par}\pard{\f0\fs20\cf0    }{\strike\f0\fs20\cf0 Archivo}{\f0\fs20\cf0 {\v Hlp_Archivo_ }}{
+\par}\pard{\f0\fs20\cf0    }{\strike\f0\fs20\cf0 Edici\'f3n}{\f0\fs20\cf0 {\v Hlp_Edicixn_ }}{
+\par}\pard{\f0\fs20\cf0    }{\strike\f0\fs20\cf0 Query}{\f0\fs20\cf0 {\v Hlp_Query_ }}{
+\par}\pard{\f0\fs20\cf0    }{\strike\f0\fs20\cf0 Archivo}{\f0\fs20\cf0 {\v Hlp_Archivo_1 }}{
+\par}\pard{\f0\fs20\cf0    }{\strike\f0\fs20\cf0 Opciones}{\f0\fs20\cf0 {\v Hlp_Opciones_ }}{
+\par}\pard{\f0\fs20\cf0    }{\strike\f0\fs20\cf0 Ventana}{\f0\fs20\cf0 {\v Hlp_Ventana_ }}{
+\par}\pard{\f0\fs20\cf0    }{\strike\f0\fs20\cf0 Ayuda}{\f0\fs20\cf0 {\v Hlp_Ayuda_ }}{
+\par}\pard{\f0\fs20\cf0    }{\strike\f0\fs20\cf0 Tablas}{\f0\fs20\cf0 {\v Hlp_Tablas_ }}{
+\par}\pard{
+\par}
+\page
+#{\footnote Hlp_Archivo_}
+${\footnote Archivo}
+K{\footnote Archivo}
++{\footnote SymphonyX0005}
+\pard{\b\f2\fs20\cf0 Archivo}{
+\par}\pard{\b\f0\fs20\cf0    Archivo}{\b\f0\fs20\cf0\tab}{
+\par}\pard{\b\f0\fs20\cf0       Conectar}{\b\f0\fs20\cf0\tab}{
+\par}\pard{\b\f0\fs20\cf0       Desconectar}{\b\f0\fs20\cf0\tab}{
+\par}\pard{\b\f0\fs20\cf0       Nuevo formulario de consultas}{\b\f0\fs20\cf0\tab}{
+\par}\pard{\b\f0\fs20\cf0       Eliminar formulario de consultas}{\b\f0\fs20\cf0\tab}{
+\par}\pard{\b\f0\fs20\cf0       Abrir consulta SQL}{\b\f0\fs20\cf0\tab}{
+\par}\pard{\b\f0\fs20\cf0       Guardar SQL}{\b\f0\fs20\cf0\tab}{
+\par}\pard{\b\f0\fs20\cf0       Configurar P\'e1gina}{\b\f0\fs20\cf0\tab}{
+\par}\pard{\b\f0\fs20\cf0       Imprimir SQL}{\b\f0\fs20\cf0\tab}{
+\par}\pard{\b\f0\fs20\cf0       Salir}{\b\f0\fs20\cf0\tab}{
+\par}\pard{
+\par}
+\page
+#{\footnote Hlp_Edicixn_}
+${\footnote Edici\'f3n}
+K{\footnote Edici\'f3n}
++{\footnote SymphonyX0005}
+\pard{\b\f2\fs20\cf0 Edici\'f3n}{
+\par}\pard{\b\f0\fs20\cf0    Edici\'f3n}{\b\f0\fs20\cf0\tab}{
+\par}\pard{\b\f0\fs20\cf0       Deshacer}{\b\f0\fs20\cf0\tab}{
+\par}\pard{\b\f0\fs20\cf0       Copiar}{\b\f0\fs20\cf0\tab}{
+\par}\pard{\b\f0\fs20\cf0       Pegar}{\b\f0\fs20\cf0\tab}{
+\par}\pard{\b\f0\fs20\cf0       Cortar}{\b\f0\fs20\cf0\tab}{
+\par}\pard{\b\f0\fs20\cf0       Borrar}{\b\f0\fs20\cf0\tab}{
+\par}\pard{\b\f0\fs20\cf0       -}{\b\f0\fs20\cf0\tab}{
+\par}\pard{\b\f0\fs20\cf0       Seleccionar todo el texto}{\b\f0\fs20\cf0\tab}{
+\par}\pard{
+\par}
+\page
+#{\footnote Hlp_Query_}
+${\footnote Query}
+K{\footnote Query}
++{\footnote SymphonyX0005}
+\pard{\b\f2\fs20\cf0 Query}{
+\par}\pard{\b\f0\fs20\cf0    Query}{\b\f0\fs20\cf0\tab}{
+\par}\pard{\b\f0\fs20\cf0       Copiar registros seleccionados}{\b\f0\fs20\cf0\tab}{
+\par}\pard{\b\f0\fs20\cf0       Seleccionar todos y copiar}{\b\f0\fs20\cf0\tab}{
+\par}\pard{\b\f0\fs20\cf0       DesSeleccionar todos los registros}{\b\f0\fs20\cf0\tab}{
+\par}\pard{\b\f0\fs20\cf0       Imprimir resultado de la b\'fasqueda}{\b\f0\fs20\cf0\tab}{
+\par}\pard{\b\f0\fs20\cf0       Copiar header de consulta}{\b\f0\fs20\cf0\tab}{
+\par}\pard{\b\f0\fs20\cf0       Ver estructura de tabla}{\b\f0\fs20\cf0\tab}{
+\par}\pard{\b\f0\fs20\cf0       Ver todas las tablas de conexi\'f3n}{\b\f0\fs20\cf0\tab}{
+\par}\pard{
+\par}
+\page
+#{\footnote Hlp_Archivo_1}
+${\footnote Archivo}
+K{\footnote Archivo}
++{\footnote SymphonyX0005}
+\pard{\b\f2\fs20\cf0 Archivo}{
+\par}\pard{\b\f0\fs20\cf0    Archivo}{\b\f0\fs20\cf0\tab}{
+\par}\pard{\b\f0\fs20\cf0       Restaurar}{\b\f0\fs20\cf0\tab}{
+\par}\pard{\b\f0\fs20\cf0       Acerca de SymphonyX ...}{\b\f0\fs20\cf0\tab}{
+\par}\pard{\b\f0\fs20\cf0       Salir}{\b\f0\fs20\cf0\tab}{
+\par}\pard{
+\par}
+\page
+#{\footnote Hlp_Opciones_}
+${\footnote Opciones}
+K{\footnote Opciones}
++{\footnote SymphonyX0005}
+\pard{\b\f2\fs20\cf0 Opciones}{
+\par}\pard{\b\f0\fs20\cf0    Opciones}{\b\f0\fs20\cf0\tab}{
+\par}\pard{\b\f0\fs20\cf0       Colores}{\b\f0\fs20\cf0\tab}{
+\par}\pard{\b\f0\fs20\cf0       Skin}{\b\f0\fs20\cf0\tab}{
+\par}\pard{\b\f0\fs20\cf0       Browser de Querys}{\b\f0\fs20\cf0\tab}{
+\par}\pard{\b\f0\fs20\cf0       Formato de Texto}{\b\f0\fs20\cf0\tab}{
+\par}\pard{\b\f0\fs20\cf0       Siempre visible}{\b\f0\fs20\cf0\tab}{
+\par}\pard{
+\par}
+\page
+#{\footnote Hlp_Ventana_}
+${\footnote Ventana}
+K{\footnote Ventana}
++{\footnote SymphonyX0005}
+\pard{\b\f2\fs20\cf0 Ventana}{
+\par}\pard{\b\f0\fs20\cf0    Ventana}{\b\f0\fs20\cf0\tab}{
+\par}\pard{\b\f0\fs20\cf0       Cascada}{\b\f0\fs20\cf0\tab}{
+\par}\pard{\b\f0\fs20\cf0       Horizontal}{\b\f0\fs20\cf0\tab}{
+\par}\pard{\b\f0\fs20\cf0       Organizar ventanas}{\b\f0\fs20\cf0\tab}{
+\par}\pard{
+\par}
+\page
+#{\footnote Hlp_Ayuda_}
+${\footnote Ayuda}
+K{\footnote Ayuda}
++{\footnote SymphonyX0005}
+\pard{\b\f2\fs20\cf0 Ayuda}{
+\par}\pard{\b\f0\fs20\cf0    Ayuda}{\b\f0\fs20\cf0\tab}{
+\par}\pard{\b\f0\fs20\cf0       Contenido}{\b\f0\fs20\cf0\tab}{
+\par}\pard{\b\f0\fs20\cf0       Indice}{\b\f0\fs20\cf0\tab}{
+\par}\pard{\b\f0\fs20\cf0       B\'fasqueda}{\b\f0\fs20\cf0\tab}{
+\par}\pard{\b\f0\fs20\cf0       SymphonyX en el WEB}{\b\f0\fs20\cf0\tab}{
+\par}\pard{\b\f0\fs20\cf0       Acerca de SymphonyX...}{\b\f0\fs20\cf0\tab}{
+\par}\pard{
+\par}
+\page
+#{\footnote Hlp_Tablas_}
+${\footnote Tablas}
+K{\footnote Tablas}
++{\footnote SymphonyX0005}
+\pard{\b\f2\fs20\cf0 Tablas}{
+\par}\pard{\b\f0\fs20\cf0    Tablas}{\b\f0\fs20\cf0\tab}{
+\par}\pard{\b\f0\fs20\cf0       Imprimir campos consulta}{\b\f0\fs20\cf0\tab}{
+\par}\pard{
+\par}
+\page
+#{\footnote Hlp_Barra_de}
+${\footnote Barra de Formato Texto}
+K{\footnote Barra de Formato Texto}
++{\footnote SymphonyX0005}
+\pard{\b\f2\fs20\cf0 Barra de Formato Texto}{
+\par}\pard{\b\f0\fs20\cf0    Toolbar1}{\b\f0\fs20\cf0\tab}{\f0\fs20\cf0 Subrayado}{
+\par}\pard{
+\par}
+\page
+#{\footnote Hlp_Acerca_de}
+${\footnote Acerca de ...}
+K{\footnote Acerca de ...}
++{\footnote SymphonyX0005}
+\pard{\b\f2\fs20\cf0 Acerca de ...}{
+\par}\pard{
+\par}
+\page
+#{\footnote Hlp_Configuracixn_de}
+${\footnote Configuraci\'f3n de Colores}
+K{\footnote Configuraci\'f3n de Colores}
++{\footnote SymphonyX0005}
+\pard{\b\f2\fs20\cf0 Configuraci\'f3n de Colores}{
+\par}\pard{
+\par}
+\page
+#{\footnote Hlp_Skin_}
+${\footnote Skin}
+K{\footnote Skin}
++{\footnote SymphonyX0005}
+\pard{\b\f2\fs20\cf0 Skin}{
+\par}\pard{
+\par}
+\page
+#{\footnote Hlp_Browser_}
+${\footnote Browser}
+K{\footnote Browser}
++{\footnote SymphonyX0005}
+\pard{\b\f2\fs20\cf0 Browser}{
+\par}\pard{
+\par}
+\page
+#{\footnote Hlp_Form1_}
+${\footnote Form1}
+K{\footnote Form1}
++{\footnote SymphonyX0005}
+\pard{\b\f2\fs20\cf0 Form1}{
+\par}\pard{
+\par}
+\page
+#{\footnote Hlp_Conectar_xxx}
+${\footnote Conectar ...}
+K{\footnote Conectar ...}
++{\footnote SymphonyX0005}
+\pard{\b\f2\fs20\cf0 Conectar ...}{
+\par}\pard{
+\par}
+\page
+#{\footnote Hlp_Presentacixn_Preliminar}
+${\footnote Presentaci\'f3n Preliminar}
+K{\footnote Presentaci\'f3n Preliminar}
++{\footnote SymphonyX0005}
+\pard{\b\f2\fs20\cf0 Presentaci\'f3n Preliminar}{
+\par}\pard{
+\par}
+\page
+#{\footnote Hlp_Imprimir_}
+${\footnote Imprimir}
+K{\footnote Imprimir}
++{\footnote SymphonyX0005}
+\pard{\b\f2\fs20\cf0 Imprimir}{
+\par}\pard{
+\par}
+\page
+#{\footnote Hlp_Browser_de}
+${\footnote Browser de Tablas}
+K{\footnote Browser de Tablas}
++{\footnote SymphonyX0005}
+\pard{\b\f2\fs20\cf0 Browser de Tablas}{
+\par}\pard{\b\f0\fs20\cf0    Toolbar1}{\b\f0\fs20\cf0\tab}{\f0\fs20\cf0 Ver Estructura de la tabla}{
+\par}\pard{\b\f0\fs20\cf0    imgConexiones}{\b\f0\fs20\cf0\tab}{\f0\fs20\cf0 Conexiones activas}{
+\par}\pard{
+\par}
+\page
+#{\footnote Hlp_Visor_de}
+${\footnote Visor de Estructura de Tabla}
+K{\footnote Visor de Estructura de Tabla}
++{\footnote SymphonyX0005}
+\pard{\b\f2\fs20\cf0 Visor de Estructura de Tabla}{
+\par}\pard{\b\f0\fs20\cf0    Toolbar1}{\b\f0\fs20\cf0\tab}{\f0\fs20\cf0 Imprimir Estructura}{
+\par}\pard{\b\f0\fs20\cf0    imgConexiones}{\b\f0\fs20\cf0\tab}{\f0\fs20\cf0 Conexiones activas}{
+\par}\pard{
+\par}
+\page
+#{\footnote Hlp_Sugerencia_del}
+${\footnote Sugerencia del d\'eda}
+K{\footnote Sugerencia del d\'eda}
++{\footnote SymphonyX0005}
+\pard{\b\f2\fs20\cf0 Sugerencia del d\'eda}{
+\par}\pard{
+\par}
+\page}
+

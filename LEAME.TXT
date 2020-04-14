@@ -1,0 +1,51 @@
+====================
+ProyectoVB
+SymphonyX Versión 1.0
+Derechos reservados 2000-2001
+====================
+
+Hola !
+Gracias por bajar SymphonyX 1.0
+Este leame contiene importante información acerca
+de los últimos cambios y noticias que no se encuentran
+en la documentación.
+
+Contenido :
+- Usos de SymphonyX.
+- Configuración de Skins.
+- Acerca del autor.
+- Contactos.
+
+1. Usted puede usar SymphonyX para :
+----------------------------------------
+
+- Conectar a múltiples fuentes de datos ODBC y MDB.
+- Exportar los registros seleccionados a Excel u otra aplicación.
+- Trabajar con múltiples ventanas de consultas SQL.
+- Guardar consulta SQL a algún archivo y abrirla posteriormente.
+- Configurar la apariencia de la aplicación.
+- y más ...
+
+2. Configuración de Skins
+
+Para cambiar la apariencia de la aplicación los Skins deben estar instalados
+en un carpeta llama Skins. 
+Los archivos con extensión .skn deben ser copiados en ese directorio.
+
+3. Acerca del Autor.
+--------------------
+Luis Núñez Ibarra 24 años nacido en Santiago de Chile.
+Analista de sistemas , casado , tenimesista.
+Nacio en santiago un 6 de agosto de 1976.
+Comenzo con un Talent por el año 1986.
+Hizo sus primeros trabajos en basic.
+Autodidacta nato de la computación hasta que se enamoro de Visual Basic.
+En el verano del 2000 forma ProyectoVb ante la necesidad de crear un sitio
+web chileno dedicado al mundo de Visual Basic.
+
+4. Contactos
+------------
+Visite http://members.xoom.com/proyectovb/
+para reportar errores o enviar comentarios a
+proyectovb@hotmail.com.
+Por favor incluya la versión que esta usando.

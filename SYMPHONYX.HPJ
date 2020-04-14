@@ -1,0 +1,53 @@
+[OPTIONS]
+ERRORLOG=E:\ProyectoVb\Aplicaciones\SymphonyX\SymphonyX.ERR
+ROOT=E:\PROYEC~1\APLICA~1\SYMPHO~1
+COMPRESS=HIGH
+CONTENTS = Hlp_Query_x                                                     
+REPORT=ON
+TITLE=ProyectoVB - SymphonyX
+WARNING=1
+
+[WINDOWS]
+main="ProyectoVB - SymphonyX", ( 255 , 255 , 511 , 511  ),0,(  255,  255,  226),(  255,  255,  226)
+HlpWnd02="Window 2", ( 511 , 0 , 511 , 1000  ),0,(  255,  255,  226),(  255,  255,  226)
+HlpWnd03="Window 3", ( 255 , 511 , 511 , 511  ),0,(  255,  255,  226),(  255,  255,  226)
+HlpWnd04="Window 4", ( 255 , 511 , 511 , 511  ),0,(  255,  255,  226),(  255,  255,  226)
+HlpWnd05="Window 5", ( 255 , 511 , 511 , 511  ),0,(  255,  255,  226),(  255,  255,  226)
+HlpWnd06="Window 6", ( 255 , 511 , 511 , 511  ),0,(  255,  255,  226),(  255,  255,  226)
+
+[CONFIG]
+RR("mmsystem","sndPlaySound","Su")
+
+[BAGGAGE]
+
+
+[BITMAPS]
+C:\ARCHIV~1\HELPWR~1\GLOSSARY.SHG
+
+[MAP]
+Hlp_Query_x  10
+Hlp_SymphonyX_  20
+Hlp_Archivo_  310
+Hlp_Edicixn_  320
+Hlp_Query_  330
+Hlp_Archivo_1  340
+Hlp_Opciones_  350
+Hlp_Ventana_  360
+Hlp_Ayuda_  370
+Hlp_Tablas_  380
+Hlp_Barra_de  390
+Hlp_Acerca_de  400
+Hlp_Configuracixn_de  410
+Hlp_Skin_  420
+Hlp_Browser_  430
+Hlp_Form1_  440
+Hlp_Conectar_xxx  450
+Hlp_Presentacixn_Preliminar  460
+Hlp_Imprimir_  470
+Hlp_Browser_de  480
+Hlp_Visor_de  490
+Hlp_Sugerencia_del  500
+GLOSSARY 64000
+
+[FILES]
+E:\ProyectoVb\Aplicaciones\SymphonyX\SymphonyX.p01
