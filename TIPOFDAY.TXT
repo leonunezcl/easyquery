@@ -1,0 +1,25 @@
+Archivo|Conectar para conectar a fuente de datos.
+SQL Opciones|Colores para configurar sentencias SQL.
+Archivo|Guardar SQL para grabar formulario de SQL activo.
+F5 Para ejecutar SQL.
+Seleccione conexión antes de ejecutar SQL.
+Botón derecho en ficha Sql para desplegar Menú Edición.
+Opciones|Skin para configurar presentación aplicación.
+Archivo|Desconectar para desconectar de fuente de datos.
+Opciones|Siempre Visible para mantener aplicación Stay on Top.
+CTRL-N para agregar nuevo formulario de SQL.
+CTRL-Q para Deshacer Escritura.
+CTRL-P para imprimir SQL.
+Opciones|Browser de Querys para desplegar árbol de ventanas SQL.
+Archivo|Eliminar formulario de consultas o CTRL-D para eliminar ventana activa.
+Para exportar registros a excel o otra aplicación F8 en la ficha resultado para copiar registros al portapapeles.
+F7 en ficha Resultado para seleccionar todos y copiar registros seleccionados al portapapeles.
+F9 en ficha Resultado para desseleccionar todos los registros seleccionados.
+Query|Imprimir resultado de búsqueda para imprimir registros.
+Query|Copiar header de consulta para copiar nombres de campos para preparar instrucción SQL.
+Opciones|Formato de texto para dar formato a ventana SQL activa.
+Archivo|Configurar página para configurar hoja de impresión.
+Query|Ver estructura de tabla para ver detalle de tabla de alguna conexión.
+Botón derecho en ficha detalle campos para imprimir campos de consulta.
+Query|Ver todas tablas de conexión para ver todas las tabla de alguna conexión.
+Ficha resultado Click en primera columna selec para seleccionar/deseleccionar registros.
